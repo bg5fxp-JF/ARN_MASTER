@@ -1,0 +1,2 @@
+include ':app', ':Rotastion2-debug'
+rootProject.name='N[AR]VA'
